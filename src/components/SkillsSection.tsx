@@ -83,7 +83,7 @@ const SkillsSection = () => {
                         viewport={{ once: true }}
                         transition={{ duration: 1, delay: 0.3 }}
                         className="h-full bg-primary rounded-full"
-                        style={{ boxShadow: "0 0 8px hsl(250 90% 65% / 0.5)" }}
+                        style={{ boxShadow: "0 0 8px hsl(0 85% 55% / 0.5)" }}
                       />
                     </div>
                   </div>
